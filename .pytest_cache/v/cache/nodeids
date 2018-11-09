@@ -1,0 +1,21 @@
+[
+  "test_get_search.py::test_search_without_params",
+  "test_get_search.py::test_non_valid_params",
+  "test_get_search.py::test_out_of_max_limit",
+  "test_get_search.py::test_tescase_01",
+  "test_get_search.py::test_testcase_02",
+  "test_get_search.py::test_testcase_03",
+  "test_get_search.py::test_testcase_04",
+  "test_get_search.py::test_testcase_05",
+  "test_get_search.py::test_testcase_06",
+  "test_get_search.py::test_testcase_07",
+  "test_get_search.py::test_testcase_08",
+  "test_get_search.py::test_testcase_09",
+  "test_get_search.py::test_testcase_10",
+  "test_get_search.py::test_testcase_11",
+  "test_get_search.py::test_testcase_12",
+  "test_get_search.py::test_testcase_13",
+  "test_get_search.py::test_testcase_14",
+  "test_get_search.py::test_testcase_15",
+  "test_get_search.py::test_testcase_16"
+]
