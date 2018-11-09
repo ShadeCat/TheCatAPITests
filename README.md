@@ -1,0 +1,1 @@
+Autotest for https://thecatapi.com/ python, pytest
