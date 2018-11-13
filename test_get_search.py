@@ -7,12 +7,12 @@ search_cat_request_params = {"size": "", "format": "", "order": "",
 
 def test_search_without_params():
     empty_params = {
-        "size": "full",
+        "size": "",
         "format": "",
         "order": "",
         "page": "",
         "limit": "",
-        "mime_types": "gif"
+        "mime_types": ""
     }
     without_param_response = SearchRequest(search_cat_url, empty_params).make_request_for_json()
     assert len(without_param_response) == 1
